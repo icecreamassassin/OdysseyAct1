@@ -11,4 +11,10 @@ Though it seems now the promises of power that Auryen gave to the Thalmor to kee
 
 Afterwords, Auryen is concerned that the Thalmor will attempt to take action again himself and the museum, and decides to appoint Latoria as the deputy curator while he accompanies the player to follow the Thalmor justiciar and find out who he reports to and why they are so interested in procuring relics.
 
-This takes the player to the isle of balfiera where a full blow crisis is underway. An Oblivion gate rests upon the top of the direnni tower and the direnni guard and Balfiera guard struggle to contain them. The player discovers that the Thalmor arrived in an attempt to absorb the Direnni clan of Altmer into the dominion and gain access to the tower, when they declined, the Thalmor entered by force
+This takes the player to the isle of balfiera where a full blow crisis is underway. An Oblivion gate rests upon the top of the direnni tower and the direnni guard and Balfiera guard struggle to contain them. The player discovers that the Thalmor arrived in an attempt to absorb the Direnni clan of Altmer into the dominion and gain access to the tower, when they declined, the Thalmor entered by force.
+
+The Thalmor then undertook to try and break into the chamber of the zero stone, which drew the attention of Dagon, who cast down Moon Riever to the tower which cut an oblivion rift at the top of the tower. The Player (accompanied by Auryen) fights through to the basement of the tower and finds a magical gate sealing the way to the lower levels. Auryen thinks it either the tower's defense against the oblivion gate or Thalmor magic to prevent those from interfering. You head to the top of the tower, remove Moon Riever but then must venture into the Oblivion gate to close it from inside as well. Upon defeating the Xivilai leader, he agrees to join you. The gate is closed and he is stranded in Mundus, abandoned by Dagon for his betrayal. The Xivilai breaks through the barrier and the group fights against a group of Thalmor, thwarting their efforts.
+
+The chamber of the Zero stone remains secure, the remaining daedra are dealt with and order is restored. The Justiciar from Solitude is killed in the fight so Auryen believe it is safe to return to Solitude for the time being.
+
+Upon returning, the floating city of Umbriel is seen over the sea of Ghosts!
