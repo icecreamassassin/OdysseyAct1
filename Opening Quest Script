@@ -1,89 +1,89 @@
 First draft 9/3
 
-[Avram] Excuse me (sir/maam), but could I speak with you a moment?
+[Avram] Excuse me (Sir/Ma'am), but could I speak with you a moment?
 
-[Player]certainly, what can I do for you?
+[Player] Certainly, what can I do for you?
 
-[Avram] Actually, it’s a rather sensitive situation. If we could speak privately in the safehouse.
+[Avram] Actually, it is a rather sensitive situation. If we could speak privately in the safehouse.
 
-[Player]Ok, come with me then
+[Player] Okay, let us head upstairs.
 
-[Player]All right, what is it? This sounds troubling
+[Player] All right, what is it? This sounds troubling.
 
-[Avram] It is quite troubling and I’m loathed to bring it up, but I am concerned that Auryen may be conspiring with the Thalmor
+[Avram] It is quite troubling and I am loathe to bring it up, but I am concerned that Auryen may be conspiring with the Thalmor.
 
-[Player]That’s quite a serious accusation
+[Player] That’s quite a serious accusation.
 
-[Avram]Yes, well last week a Thalmor Justicar arrived in Solitude, and rather than appearing before the court, he came right to Auryen at the museum. I found it rather odd but paid it little mind at the time. Then I saw the Justicar a second time sitting with Auryen in the reception hall, and as I came around the corner, they suddenly stopped speaking until I had passed through. Then a few days later Auryen was drafting a letter at his desk and when I entered he suddenly covered it up. Clearly there is something he doesn’t want others to know about.
+[Avram] Indeed. Last week a Thalmor Justiciar arrived in Solitude, and rather than appearing before the court, he came directly to Auryen at the museum. I found it rather odd, but paid it little mind at the time. The next day I saw the same Justiciar sitting with Auryen in the reception hall, and as I came around the corner, they suddenly stopped speaking until I had passed through. A few days later Auryen was drafting a letter at his desk and when I entered he suddenly covered it up. Clearly there is something he does not wish others to know about.
 
 [Player] That is dreadful. I hope there is a reasonable explanation for this.
 
-[Avram] I do as well, and I suspect I may be over reacting, but It was odd enough that I thought I should bring it to your attention
+[Avram] As do I. It is possible that I am overreacting, but it was odd enough that I thought I should bring it to your attention.
 
 [Player] No, you did the right thing. I’ll look into it
 
-[Avram]Excellent, let me know what you find out
+[Avram] Thank you (Sir/Ma'am). Please let me know what you discover.
 
 
 (letter)
-Auryen, I am pleased that you have contacted me about our discussion the other day and that you have decided to start living up to your responsibilities. I will be at that cesspool of an Inn they aptly call the winking skeever tomorrow evening at seven. We can meet there away from the prying eyes and ears of your associates.
+Auryen, I am pleased that you have contacted me about our discussion the other day and that you have decided to start fulfilling your responsibilities. I will be at that aptly named cesspool of an inn, The Winking Skeever, tomorrow evening at seven. We can meet there away from the prying eyes and ears of your associates.
 
 
 
 
 
-[Player]I found a letter from the Justicar
+[Player] I found a letter from the Justiciar.
 
-[Avram]Oh really? Does it shed any light on the situation?
+[Avram] Oh really? Does it shed any light on the situation?
 
-[Player]Not really, it adds more questions than answers but they are meeting tomorrow
+[Player] Not really; more questions than answers. It did say they are meeting tomorrow, however.
 
-[Avram]Ah good. Well obviously you should go and listen in, and you may want to go in disguise as Auryen will easily spot you otherwise. I think this hood and robe will do. Just don’t get too close, they may get suspicious. 
+[Avram] Ah good. Well, you should go and listen in. Wear this hood and robe and you may want to go in disguise as Auryen will easily spot you otherwise. I think this hood and robe will do. Just don’t get too close, they may get suspicious. 
 
 
 (Auryen scene at winking skeever)
-Justicar is sitting at table when player arrives. Nearby spot is marked for player to wait at. Auryen enters at 7
+Justiciar is sitting at a table when player arrives. Nearby spot is marked for player to wait at. Auryen enters at 7.
 
-[Justicar] Oh good you are here. I was afraid I would actually have to order something if you were any longer
+[Justiciar] Oh good you are here. I was afraid I would actually have to order something if you were any longer.
 
 [Auryen] Let’s dispense with the snide comments, I am here, now what did you want to discuss with me?
 
-[Justicar] Yes, down to business. I still am rather appalled that you not only acquired but also installed that atrocity of a window in your gallery, but my superiors would be satisfied with you covering the stained glass of Talos rather than destroying it as it does represent a historical relic of Kvatch
+[Justiciar] Yes, down to business. I am still rather appalled that you, not only acquired, but actually installed that atrocity of a window in your gallery. Fortunately for you, my superiors will be satisfied with you covering the stained glass rather than destroying it, if only for history's sake.
 
-[Auryen] You could have told me this in a letter and not had to call me out here to tell me you know
+[Auryen] A letter would have sufficed.
 
-[Justicar] Well if that was all I had to discuss they yes, you are quite right. But as it stands it is not. I wanted to discuss with you your commitment to providing relics to the Thalmor. I would remind you that many regard you as a traitor, and living up to your agreement, albeit at a very late hour, would help dissuade those opinions of you.
+[Justiciar] Well if that was all I had to discuss then yes, it would have. That is not the case. I wanted to discuss with you your commitment to providing relics to the Thalmor. I would remind you that many regard you as a traitor, and making good on your agreement, albeit at a very late hour, would help dissuade those opinions of you.
 
 [Auryen] I am well aware of my commitments and the opinions of SOME in the order, and I will hold my end of the bargain as long as you agree to stay out of the affairs of the museum in the future.
 
-[Justicar] We shall see what level of involvement I will need to maintain as time goes on, but for now, yes, you main retail your precious stained glass talos, as long as it’s shielded from view, and of course assuming you hold up your agreement.
+[Justiciar] We shall see what level of involvement I will need to maintain as time goes on, but for now, yes, you may retain your precious stained glass, as long as it’s shielded from view, and of course, you hold to your agreement.
 
-[Auryen] I shall. I’ll select an appropriate assortment for the first delivery and will contact you when it’s ready
+[Auryen] I shall. I will select an appropriate assortment for the first delivery and will contact you when it’s ready.
 
 
-[Player] I need to speak with you
+[Player] I need to speak with you.
 
 [Auryen] Oh? What can I do for you my friend?
 
-[Player] I overheard your meeting with the Justicar and found the letter
+[Player] I overheard your meeting with the Justicar and found the letter.
 
 [Auryen] Oh! Well… I suppose that would all seem rather incriminating wouldn’t it? I would only ask that you give me the benefit of the doubt as I explain. I think we owe each other that much.
 
-[Player] I’m listening
+[Player] I’m listening.
 
-[Auryen] Very well. I suppose I should start at the beginning, and firstly apologize for not explaining my past sooner, it just never became relevant before now. During the great war, I was in fact a member of the Thalmor order of the Altmeri Dominion. I was an intelligence officer, specializing in ancient artifacts, my background at the Guilem University lending itself to that position. It quickly became clear to me however that the Thalmor were much more radical and zealous in their pursuits of the advancement of the Altmer and I began to discover things about their practices that turned my stomach, and so I made the moral judgement to leave. Only one does not simply quit the Thalmor order. I took great risks, made many unsavory deals and promises in order to extricate myself from their ranks. I only told a precious few where I was going and what I was planning to do, but it seems that information has gotten back to the Thalmor high council. That or the prestige of the museum has carried my name along with it. I had hoped that most of the attention for the museum would be attributed to you, but one way or another they eventually found me. The Justicar contacted me a few weeks ago that he would be arriving, and would be expecting me to make good on the promises I made when I departed, which was to provide relics of great power to the Thalmor. I honestly thought that with the civil war and their incepted witch hunt against Talos, that they had forgotten about me, but apparently I was wrong. He showed up here at the museum and demanded that I fulfill my promise. I gave him a tour of the museum in a vain effort to placate him, allowing him to inventory what was available, but when we arrived here in the new hall of legends he became fixated on the stained glass windows I had brought in from the cathedral in Kvatch. He demanded that I destroy the stained glass depiction of Talos the divine. We debated about it for a significant period of time when Avram appeared and we stemmed the argument. I’m sure at that point he realized that something was amiss. I quickly agreed to cover the stained glass window and the Justicar would report back to his superior to verify if it would be a sufficient enough measure for their liking. A few days later I received a message that he would like to meet with me concerning it and my other responsibilities, which is where you presumable overheard our discussion. 
+[Auryen] Very well. I suppose I should start at the beginning, and firstly apologize for not discussing my past sooner, it just never became relevant before now. During the great war, I was in fact a member of the Thalmor order of the Aldmeri Dominion. I was an intelligence officer, specializing in ancient artifacts, with my background at the University of Gwylim lending itself to that position. It quickly became clear to me however, that the Thalmor were far more radical and zealous in their pursuits of the advancement of the Altmer and I began to discover things about their practices that turned my stomach, and so I made the moral judgement to leave. Only, one does not simply quit the Thalmor order. I took great risks, made many unsavory deals and promises in order to extricate myself from their ranks. I only told a precious few where I was going and what I was planning to do, but it seems that information has found its way to the Thalmor high council. That or the prestige of the museum has carried my name along with it. I had hoped that most of the attention for the museum would be attributed to you, but one way or another they eventually found me. That Justiciar contacted me a few weeks ago that he would be arriving, and would be expecting me to make good on the promises I made when I departed, which was to provide relics of great power to the Thalmor. I honestly thought that with the civil war and their incepted witch hunt against Talos, that they had forgotten about me, but apparently I was wrong. He showed up here at the museum and demanded that I fulfill my promise. I gave him a tour of the museum in a vain effort to placate him, allowing him to inventory what was available, but when we arrived here in the new hall of legends he became fixated on the stained glass windows I had brought in from the cathedral in Kvatch. He demanded that I destroy the stained glass depiction of Talos the divine. We debated about it for a significant period of time when Avram appeared and we stemmed the argument. I’m sure at that point he realized that something was amiss. I quickly agreed to cover the stained glass window and the Justicar would report back to his superior to verify if it would be a sufficient enough measure for their liking. A few days later I received a message that he would like to meet with me concerning it and my other responsibilities, which, I presume, is where you overheard our discussion. 
 
-[Player] I suppose this explains how you have known so much
+[Player] I suppose this explains how you have known so much.
 
 [Auryen] Yes, many relics I knew about due to my academic studies, but other things such as the Guardians of Akatosh and the relics of the divine I knew more about due to my intelligence position with the Thalmor.
 
-[Player] So what of your promise to delivery artifacts to them?
+[Player] So what of your promise to deliver artifacts to them?
 
 [Auryen] I have no intention of giving them anything, I never did. But I suppose I relied too much on chance and the protection of Haafingar to conceal my presence here. So something will need to be done and I think I know what may work, at least for the meantime. We can create a number of replicas with similar enchantments to their original and pass them off as the artifact and you can safeguard the originals elsewhere. Then we can arrange the delivery of the artifacts and hopefully keep him out of our business for a while. Between your skills at crafting replicas and my enchantment skills, it should be some time before they realize our ruse. It’s just the long term risk that worries me at this point.
 
-[Player] Wouldn’t the blue palace have something to say about all this?
+[Player] Wouldn’t the Blue Palace have something to say about all this?
 
-[Auryen] yes, in fact now that you mention it, Solitude regards the relics in the museum as national treasures and an attempt to purchase such relics by outsiders may not go over well with them. You are on good terms with Falk Firebeard aren’t you? Perhaps we could speak with him about the situation and perhaps we can come to a plan.
+[Auryen] Yes, in fact now that you mention it, Solitude regards the relics in the museum as national treasures and an attempt to purchase such relics by outsiders may not go over well with them. You are on good terms with Falk Firebeard aren’t you? Perhaps we could speak with him about the situation and perhaps we can come to a plan.
 
 [Player] Yes, I think that would be wise.
 
@@ -93,21 +93,21 @@ Justicar is sitting at table when player arrives. Nearby spot is marked for play
 
 [Falk] Yes? What is it my friend?
 
-[Auryen] We have a situation concerning the museum and this new Justicar who has arrived in Solitude
+[Auryen] We have a situation concerning the museum and this new Justiciar who has arrived in Solitude.
 
 [Falk] Yes, I’ve had some guards on him all week, seems rather odd to have him here and not present himself to the Jarl. What of him?
 
-[Auryen] Well he has business with me, old business. As I’m sure Elisef has mentioned to you, I was once a member of the Thalmor during the great war, but have long since cut my ties to their ruthless organization.
+[Auryen] Well he has business with me, old business. As I’m sure Elisif has mentioned to you, I was once a member of the Thalmor during the great war, but have long since cut my ties to their ruthless organization.
 
 [Falk] She has mentioned it, yes.
 
 [Auryen] Well rest assured, that I have nothing but the best interests of Skyrim at heart, but in order to leave the Thalmor I had to imply promises of artifacts which I now have in my care at the museum, which I have no intention of surrendering to him, but his presence here is an ever looming threat.
 
-[Falk]What are you asking of me? I can’t simply kick the Justicar out of Solitude without a reason, in accordance with the white gold concordant, any imperial seat of power throughout the empire must yield to play host to any lawful Thalmor diplomat upon request
+[Falk] What are you asking of me? I can’t simply kick the Justicar out of Solitude without a reason, in accordance with the white gold concordant, any imperial seat of power throughout the empire must yield to play host to any lawful Thalmor diplomat upon request
 
-[Auryen] Well it was out hope that we could present an unlawful situation against the Justicar
+[Auryen] Well I was hoping that we could present an unlawful situation against the Justicar
 
-[Falk] I’m listening
+[Falk] I’m listening.
 
 [Auryen] He wants artifacts, and our friend and I can create some rather convincing replicas. If you were to be present with some guards at the site of the exchange, perhaps that would be ground enough to evict him from the gates of Solitude?
 
