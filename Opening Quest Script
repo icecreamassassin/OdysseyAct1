@@ -1,6 +1,6 @@
 First draft 9/3
 
-[Avram] Excuse me (Sir/Ma'am), but could I speak with you a moment?
+[Avram] Excuse me (sir/ma'am), but could I speak with you a moment?
 
 [Player] Certainly, what can I do for you?
 
@@ -22,7 +22,7 @@ First draft 9/3
 
 [Player] No, you did the right thing. I’ll look into it
 
-[Avram] Thank you (Sir/Ma'am). Please let me know what you discover.
+[Avram] Thank you (sir/ma'am). Please let me know what you discover.
 
 
 (letter)
@@ -38,8 +38,7 @@ Auryen, I am pleased that you have contacted me about our discussion the other d
 
 [Player] Not really; more questions than answers. It did say they are meeting tomorrow, however.
 
-[Avram] Ah good. Well, you should go and listen in. Wear this hood and robe and you may want to go in disguise as Auryen will easily spot you otherwise. I think this hood and robe will do. Just don’t get too close, they may get suspicious. 
-
+[Avram] Ah good. Well, you should go and listen in. Wear this hood and robe as Auryen will easily spot you otherwise. Do not get too close, they may get suspicious.
 
 (Auryen scene at winking skeever)
 Justiciar is sitting at a table when player arrives. Nearby spot is marked for player to wait at. Auryen enters at 7.
@@ -65,13 +64,13 @@ Justiciar is sitting at a table when player arrives. Nearby spot is marked for p
 
 [Auryen] Oh? What can I do for you my friend?
 
-[Player] I overheard your meeting with the Justicar and found the letter.
+[Player] I overheard your meeting with the Justiciar and found the letter.
 
 [Auryen] Oh! Well… I suppose that would all seem rather incriminating wouldn’t it? I would only ask that you give me the benefit of the doubt as I explain. I think we owe each other that much.
 
 [Player] I’m listening.
 
-[Auryen] Very well. I suppose I should start at the beginning, and firstly apologize for not discussing my past sooner, it just never became relevant before now. During the great war, I was in fact a member of the Thalmor order of the Aldmeri Dominion. I was an intelligence officer, specializing in ancient artifacts, with my background at the University of Gwylim lending itself to that position. It quickly became clear to me however, that the Thalmor were far more radical and zealous in their pursuits of the advancement of the Altmer and I began to discover things about their practices that turned my stomach, and so I made the moral judgement to leave. Only, one does not simply quit the Thalmor order. I took great risks, made many unsavory deals and promises in order to extricate myself from their ranks. I only told a precious few where I was going and what I was planning to do, but it seems that information has found its way to the Thalmor high council. That or the prestige of the museum has carried my name along with it. I had hoped that most of the attention for the museum would be attributed to you, but one way or another they eventually found me. That Justiciar contacted me a few weeks ago that he would be arriving, and would be expecting me to make good on the promises I made when I departed, which was to provide relics of great power to the Thalmor. I honestly thought that with the civil war and their incepted witch hunt against Talos, that they had forgotten about me, but apparently I was wrong. He showed up here at the museum and demanded that I fulfill my promise. I gave him a tour of the museum in a vain effort to placate him, allowing him to inventory what was available, but when we arrived here in the new hall of legends he became fixated on the stained glass windows I had brought in from the cathedral in Kvatch. He demanded that I destroy the stained glass depiction of Talos the divine. We debated about it for a significant period of time when Avram appeared and we stemmed the argument. I’m sure at that point he realized that something was amiss. I quickly agreed to cover the stained glass window and the Justicar would report back to his superior to verify if it would be a sufficient enough measure for their liking. A few days later I received a message that he would like to meet with me concerning it and my other responsibilities, which, I presume, is where you overheard our discussion. 
+[Auryen] Very well. I suppose I should start at the beginning, and firstly apologize for not discussing my past sooner, it just never became relevant before now. During the great war, I was in fact a member of the Thalmor order of the Aldmeri Dominion. I was an intelligence officer, specializing in ancient artifacts, with my background at the University of Gwylim lending itself to that position. It quickly became clear to me however, that the Thalmor were far more radical and zealous in their pursuits of the advancement of the Altmer and I began to discover things about their practices that turned my stomach, and so I made the moral judgement to leave. Only, one does not simply quit the Thalmor order. I took great risks, made many unsavory deals and promises in order to extricate myself from their ranks. I only told a precious few where I was going and what I was planning to do, but it seems that information has found its way to the Thalmor high council. That or the prestige of the museum has carried my name along with it. I had hoped that most of the attention for the museum would be attributed to you, but one way or another they eventually found me. That Justiciar contacted me a few weeks ago that he would be arriving, and would be expecting me to make good on the promises I made when I departed, which was to provide relics of great power to the Thalmor. I honestly thought that with the civil war and their incepted witch hunt against Talos, that they had forgotten about me, but apparently I was wrong. He showed up here at the museum and demanded that I fulfill my promise. I gave him a tour of the museum in a vain effort to placate him, allowing him to inventory what was available, but when we arrived here in the new hall of legends he became fixated on the stained glass windows I had brought in from the cathedral in Kvatch. He demanded that I destroy the stained glass depiction of Talos the Divine. We debated about it for a significant period of time when Avram appeared and we stemmed the argument. I’m sure at that point he realized that something was amiss. I quickly agreed to cover the stained glass window and the Justicar would report back to his superior to verify if it would be a sufficient enough measure for their liking. A few days later I received a message that he would like to meet with me concerning it and my other responsibilities, which, I presume, is where you overheard our discussion. 
 
 [Player] I suppose this explains how you have known so much.
 
@@ -103,88 +102,88 @@ Justiciar is sitting at a table when player arrives. Nearby spot is marked for p
 
 [Auryen] Well rest assured, that I have nothing but the best interests of Skyrim at heart, but in order to leave the Thalmor I had to imply promises of artifacts which I now have in my care at the museum, which I have no intention of surrendering to him, but his presence here is an ever looming threat.
 
-[Falk] What are you asking of me? I can’t simply kick the Justicar out of Solitude without a reason, in accordance with the white gold concordant, any imperial seat of power throughout the empire must yield to play host to any lawful Thalmor diplomat upon request
+[Falk] What are you asking of me? I can’t simply kick the Justiciar out of Solitude without a reason. In accordance with the White Gold Concordant, any seat of power within the Empire must play host to any lawful Thalmor diplomat upon request.
 
-[Auryen] Well I was hoping that we could present an unlawful situation against the Justicar
+[Auryen] Well I was hoping that we could create an unlawful situation involving the Justiciar.
 
 [Falk] I’m listening.
 
-[Auryen] He wants artifacts, and our friend and I can create some rather convincing replicas. If you were to be present with some guards at the site of the exchange, perhaps that would be ground enough to evict him from the gates of Solitude?
+[Auryen] He wants artifacts, and our friend and I can create some rather convincing replicas. If you were to be present with some guards at the site of the exchange, perhaps that would be grounds enough to remove him from Solitude?
 
-[Falk] Yes, that could be grounds enough to expel him. The artifacts in the museum, though the personal property of our relic hunter friend here are still regarded as national treasures under the protection of Haafingar, To barter them to an outside power would be a crime against those acquiring them, but it would also be a crime committed by you Auryen.
+[Falk] Yes, that could be grounds enough to expel him. The artifacts in the museum, though the personal property of our relic hunter friend here are still regarded as national treasures under the protection of Haafingar. To barter them to an outside power would be a crime against those acquiring them, but it would also be a crime committed by you Auryen.
 
-[Auryen] I am prepared to accept judgement if necessary in order to see to this Justicar’s removal and the protection of the artifacts at the museum. 
+[Auryen] I am prepared to accept judgement if necessary in order to see to this Justiciar’s removal and the protection of the artifacts at the museum. 
 
-[Falk] Well as far as my guards are concerned, you will be charged for the crime as well, but I will see to it you are released and put to before the Jarl to pardon you, but you may have to spend a few days in a cell.
+[Falk] Well as far as my guards are concerned, you will be charged for the crime as well, but I will see to it you are released and put before the Jarl to pardon you, but you may have to spend a few days in a cell.
 
 [Auryen] That is perfectly acceptable.
 
 [Falk] Very well. When and where will this exchange occur?
 
-[Auryen] I can arrange for the sale to take place tomorrow at noon. That will give us an opportunity to create some convincing replicas and safeguard the originals. And I think that courtyard across from the museum beside the bard’s college would make an ample meeting place.
+[Auryen] I can arrange for the sale to take place tomorrow at noon. That will give us time to create some convincing replicas and safeguard the originals. And I think that courtyard across from the museum, beside the bard’s college, would be an acceptable meeting place.
 
 [Falk] Very well, I’ll be there. Thank you for bringing this to my attention.
 
 
 (at the meeting)
-[Justicar] Oh good you have arrived. I was starting to think you were not going to show
+[Justiciar] Oh good you have arrived. I was beginning to think you were not going to show.
 
 [Auryen] Well it’s not exactly easy carrying crates of priceless relics, but we are here and so are the goods.
 
-[Justicar] And who is this might I ask?
+[Justiciar] And who, might I ask, is this?
 
 [Auryen] My friend is simply a relic hunter for the museum who is helping me to bring the items I promised you.
 
-[Justicar] Very well. Let me inspect the goods. (looks in crates) Yes. It all seems to be in order, and very fine quality as well. Very good Auryen. I consider your debt paid as promised, and I will inform my master about your cooperation upon my return. You also will not have to worry about your precious stained glass as long as it remains unseen by the public. And this is your compensation as promised.
+[Justiciar] Very well. Let me inspect the goods. (looks in crates) Yes. It all seems to be in order, and very fine quality as well. Well done Auryen. I consider your debt paid as promised, and your cooperation will be noted in my report to my superiors. You also will not have to worry about your precious stained glass as long as it remains unseen by the public. And lastly your compensation, as promised.
 
-[Falk] Halt right there! In the name of Jarl elesif and the people of Haafingar, you are all under arrest!
+[Falk] Stop right there! In the name of Jarl Elisif and the people of Haafingar, you are all under arrest!
 
-[Justicar] What? This is an outrage! I am a duly appointed emissary of the Thalmor counsel and am immune to whatever silly “law” you think is being broken here.
+[Justiciar] What? This is an outrage! I am a duly appointed emissary of the Thalmor council and am immune to whatever silly “law” you think is being broken here.
 
-[Falk] You were just caught red handed completing a transaction to acquire priceless relics held in charge by the museum of Solitude. Both Auryen and you Justicar will come with use quietly. From there you will be processed back to your embassy justicar and Auryen will continue to be held until the Jarl can pass judgement.
+[Falk] You were just caught red handed completing a transaction to acquire priceless relics held in charge by the museum of Solitude. Both Auryen and you, Justiciar, will come with us quietly. You will be handed over to your embassy with a report for Ambassador Elenwen; Auryen, you will be held awaiting judgement before the Jarl. 
 
-[Justicar] I don’t think so Nord, Kill them!
+[Justiciar] I don’t think so Nord, Kill them!
 
-[Justicar] Enough! I yield… you fools, will pay, eventually.
+[Justiciar] Enough! I yield… you fools, will pay, eventually.
 
 [Falk] Good, you come quietly then, no more of your games. 
 
 (As they leave for the palace, the justicar breaks free again)
 
-[Justicar] Ha! For the glory of the Thalmor! (summons a daedra and then runs)
+[Justiciar] Ha! For the glory of the Thalmor! (summons a daedra and then runs)
 
-[Falk] Well that didn’t go exactly as I had anticipated, but all the same, I think it’s dealt with. I will have orders distributed for the arrest of that Justicar. He will no longer be allowed within the walls of Solitude, and you Auryen, are free to go. I’ll sort out the rest of this mess.
+[Falk] Well that didn’t go exactly as planned, but all the same, I think it’s dealt with. I will have issue orders for the arrest of that Justiciar. He will no longer be allowed within the walls of Solitude, and Auryen, you are free to go. I’ll sort out the rest of this mess.
 
-[Auryen] Thank you Falk. And thank you my friend. I know this all still may not seem quite right, but I am sincere about my intentions here, and I hope that your trust in me isn’t too worn.
+[Auryen] Thank you Falk. And thank you my friend. I know this all still may not seem quite right, but I am sincere about my intentions here, and I hope that your trust in me hasn't been too damaged.
 
-[Player] We all have our pasts, Auryen, I’m just glad you are on our side
+[Player] We all have our pasts, Auryen, I’m just glad you are on our side.
 
-[Auryen] Well I’ll certainly be more forthcoming about anything that may be relevant in the future. As it stands now, I think we have a larger problem on our hands and need to find out who this Justicar answers to, and why they are so intent on obtaining more relics of power. Perhaps one of the Justicar’s men will have a clue.
+[Auryen] Well, I will certainly be more forthcoming in the future. As it stands now, I think we have a larger problem on our hands. We need to find out who this Justiciar answers to, and to what end they are gathering these relics. Perhaps one of the his men holds a clue.
 
 
 (orders of deployment)
-You are hereby ordered to report to Justicar Orano at the Thalmor Embassy in Haafingar. From there your deployment will to be a retainer for his needs as he negotiates with a rouge agent in Solitude.
+You are hereby ordered to report to Justiciar Orano at our embassy in Haafingar. You are to serve under him until such time that he discharges you from his service or you recieve further orders from this office.
 
 Secretary Juriayal 
-Office of High lord Valthurian
+Office of High Lord Valthurian
 Isle of Balfiera
 
-[Player] I found a deployment order on a soldier
+[Player] One of the soldiers had his deployment orders on him.
 
-[Auryen] Oh yes, it appears he was assigned to the Justicar by the office of Lord Valthurian who is based in the Isle of Balfiera? That seems like a rather far off company to be operating in Skyrim. I would have thought that Ambassador Elenwen’s company would have simply assigned guards to the Justicar for his task here.
+[Auryen] Let me see. Hmm...So Orano is his name. Under orders from High Lord Valthurian from the Isle of Balfiera? If all he needed were soldiers, why didn't Orano use Elenwen's? Unless...yes, he never intended to report back to the embassy after our transaction. Which likely means Elenwen remains unaware of who I once was. We can think on that later; there is a far more pressing matter to address.
 
-[Player] Do you know who Valthurian is?
+[Player] That issue being High Lord Valthurian?
 
-[Auryen] Of course, and it’s not good indeed. Lord Valthurian is a member of the Thalmor high counsel who is obsessed with Arcane interests. I believe that Ancano may have been a member of his company. If Justicar Orano was sent here by Valthurian, they must have something much larger at stake than a few weapons of interest. 
+[Auryen] Yes and it bodes most ill. Lord Valthurian is a member of the Thalmor High Council who is obsessed with the Arcane. I believe that Ancano may have been a member of his company. If Justiciar Orano was sent here by Valthurian, I believe thay have something much larger planned than simply acquiring a few powerful weapons. 
 
 (deepholme done)
-I think that it may be best to store away any remaining original artifacts of significant power within deepholme and place replicas on display instead.
+I think that it may be best to move any remaining original artifacts of significant power to deepholme and place replicas on display instead.
 
-(no deephome)
+(no deepholme)
 I think it may be best to store away any remaining original artifacts of significant power and create replicas to display instead.
 
-[Auryen] We had best head to the Isle of Balfiera. With any luck the Dev Aveza will carry us there faster than the Justicar can arrive there, and it will give us time to assess what is happening and hopefully intercept him
+[Auryen] We had best head to the Isle of Balfiera. With any luck the Dev Aveza will allow us to arrive ahead of Orano, giving us time to assess what is happening and hopefully intercept him.
 
-[Player] What do you mean we? Are you coming along?
+[Player] What do you mean "we"? Are you coming along?
 
-[Auryen] Yes certainly. This situation is largely my affair and I need to be there to help inform you along the way. Valthuirian is no merge  Thalmor commander and would pose a terrible threat if we aren’t prepared. I’ll tell Madras to get the ship ready. Just let me know when you are ready to embark.
+[Auryen] Absolutely. This situation is largely my affair and you will need my knowledge and experience. Valthurian is far from your average Thalmor commander and would pose a terrible threat if we aren’t prepared. I’ll tell Madras to get the ship ready. Just let me know when you are ready to embark.
