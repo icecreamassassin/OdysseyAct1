@@ -82,7 +82,7 @@ Justiciar is sitting at a table when player arrives. Nearby spot is marked for p
 
 [Player] Wouldn’t the Blue Palace have something to say about all this?
 
-[Auryen] Yes, in fact now that you mention it, Solitude regards the relics in the museum as national treasures and an attempt to purchase such relics by outsiders may not go over well with them. You are on good terms with Falk Firebeard aren’t you? Perhaps we could speak with him about the situation and perhaps we can come to a plan.
+[Auryen] Yes, in fact now that you mention it, Solitude regards the relics in the museum as national treasures and an attempt to purchase such relics by outsiders may not go over well with them. You are on good terms with Falk Firebeard aren’t you? Perhaps we could speak with him about the situation and maybe we can come to a plan.
 
 [Player] Yes, I think that would be wise.
 
@@ -110,7 +110,7 @@ Justiciar is sitting at a table when player arrives. Nearby spot is marked for p
 
 [Auryen] He wants artifacts, and our friend and I can create some rather convincing replicas. If you were to be present with some guards at the site of the exchange, perhaps that would be grounds enough to remove him from Solitude?
 
-[Falk] Yes, that could be grounds enough to expel him. The artifacts in the museum, though the personal property of our relic hunter friend here are still regarded as national treasures under the protection of Haafingar. To barter them to an outside power would be a crime against those acquiring them, but it would also be a crime committed by you Auryen.
+[Falk] Yes, that could be grounds enough to expel him. The artifacts in the museum, though the personal property of our relic hunter friend here are still regarded as prized relics under the protection of Haafingar. To barter them to an outside power would be a crime against those acquiring them, but it would also be a crime committed by you Auryen.
 
 [Auryen] I am prepared to accept judgement if necessary in order to see to this Justiciar’s removal and the protection of the artifacts at the museum. 
 
@@ -123,6 +123,8 @@ Justiciar is sitting at a table when player arrives. Nearby spot is marked for p
 [Auryen] I can arrange for the sale to take place tomorrow at noon. That will give us time to create some convincing replicas and safeguard the originals. And I think that courtyard across from the museum, beside the bard’s college, would be an acceptable meeting place.
 
 [Falk] Very well, I’ll be there. Thank you for bringing this to my attention.
+
+[Auryen] Well that went smoothly enough. Here's a list of artifacts I think we'll be able to make convincing replicas for. If you could see to it they are made and bring them back to me before tomorrow, I'll see to it they are enchanted and ready for the exchange
 
 
 (at the meeting)
