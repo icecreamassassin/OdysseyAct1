@@ -1,54 +1,54 @@
-[Player] I believe I am ready to depart for Balfiera
+[Player] I believe I am ready to depart for Balfiera.
 
-[Auryen] Excellent. I'm having Avram see to the replacement and safeguarding of key relics in the museum, and Madras has the airship all ready to go. Let's go.
+[Auryen] Excellent. Avram is seeing to the replacement and safeguarding of key relics in the museum, and Madras has finished preparing the airship. Let's go.
 
 (Activating the Helm moves the Airship to Balfiera. It flies through clouds and shows the tower before descending to Gallowmarket and docking)
 
 (Upon reaching the gate courtyard a group of people run in screaming)
-[Citizen]: Dragon! A Dragon attacked Upvale! Help, you must help us
+[Citizen]: Dragon! A dragon has attacked Upvale! Help, you must help us!
 
-[City Guard]: Hold on there, what's this nonsence? A Dragon here, how?
+[City Guard]: Hold on there, what's this nonsense? A dragon? Here? How?
 
-[Citizen]: How am I supposed to know? He flew in from the north and without warning started raining down fire all over town, snatching up people at every turn!
+[Citizen]: How am I supposed to know? It flew in from the north and suddenly started raining down fire all over town and snatching up people at every turn!
 
-[City Guard]: Calm down, we'll look into it. I'll send someone to the garrison and they'll probably send someone shortly.
+[City Guard]: Calm down, we'll look into it. I'll send someone to the garrison and they'll probably send out a squad to investigate.
 
 [Citizen]: There's no time! By the time you get your act together everyone will be dead!
 (Runs to player)
 [Citizen]: You there! These fool guards aren't going to be any help! You look to be the capable sort, would you please help our fellow townsfolk while I inform the garrison?
 
-[Player]: Dragons are my speciality, where is Upvale?
+[Player]: Dragons are my speciality, how do I get to Upvale?
 
-[Citizen]: Thank you!, it's just to the west of here. Go out the north gate and head to the west a bit. You'll see the devastation as soon as you come over the rise. I'll inform the Imperial Garrison at once! (Starts quest to investigate)
+[Citizen]: Thank you! It's just to the west of here. Go out the north gate and head to the west a bit. You'll see the devastation as soon as you come over the rise. I'll inform the Imperial garrison at once! (Starts quest to investigate)
 
 [Player]: I just got here...
 
-[Citizen]: Oh nevermind! I'll inform the Garrison and maybe gather a few mercenaries if I can find them. I hope we don't arrive too late! (runs off)
+[Citizen]: Oh nevermind! I'll inform the garrison and maybe gather a few mercenaries if I can find them. I hope we don't arrive too late! (runs off)
 
 
 (If you end up at the Garrison before the gate)
 
 [Player]: What can you tell me about this place?
 
-[Legate Warrington]: A lot, it depends on what you need. This isn't the chamber of commerce after all, it's an Imperial Garrison. But you seem new here, I suppose I can spare a moment or two.
+[Legate Warrington]: A lot, it depends on what you need. This isn't the chamber of commerce after all, it's a Legion garrison. But you seem new here, I suppose I can spare a moment or two.
 
-This is Gallowmarket, the primary port city of the Isle of Balfiera.
+This is Gallowmarket, the largest port city on the Isle of Balfiera. I am Legate Warrington, commander of this garrison.
 
 [Player]: Who is in charge here?
 
-[Legate Warrington]: Well that's fairly complicated actually. Since we are in High Rock techincally, I suppose the Bretons are in charge, but ultimately High Rock is part of the empire, so Imperials have control. However with the White Gold concordant, the Thalmor also have a presence here. The island itself is governed by the Bretonny Governor Juliar, but here on the central isle, the Direnni clan still holds sway and control the tower of Ada Mantia as well as the temple and citadel fortress up on the hill, though it's more for show than actual power anymore. I'm sure that clears it all up doesn't it? haha.
+[Legate Warrington]: Well, that's somewhat complicated actually. Since we are in High Rock techincally, I suppose the Bretons are in charge, but ultimately High Rock is part of the empire, so Imperials have control. However, with the White Gold Concordant, the Thalmor also have a presence here. The island itself is governed by the Bretonny Governor Juliar, but here on the central isle, the Direnni clan still holds sway and control the Adamantine Tower as well as the temple and citadel up on the hill, though it's more ceremonial than actual power anymore. I'm sure that clears it all up doesn't it? Haha.
 
 [Player]: Where are the Thalmor?
 
-[Legate Warrington]: They have an embassy over on the west end of the harbor. They have been quiet for the most part over the last year, but in recent weeks they have had a lot more comings and goings.
+[Legate Warrington]: They have an embassy over on the west end of the harbor. They moved in last year and mostly keep to themselves. They make appearances at formal events and occasionally send a patrol around the isle. Although, for the past month or so, there's been a lot more avtivity over there.
 
 [Player]: Where is the governor?
 
-[Legate Warrington]: Governor Juliar resides within the Direnni Palace up on the hill. He's a Breton, not an Elf, but they play host to him all the same.
+[Legate Warrington]: Governor Juliar resides within the Direnni Palace up on the hill. He's a Breton, not an elf, but they play host to him all the same.
 
 [Player]: What can you tell me about the Direnni?
 
-[Legate Warrington]: Not a whole lot. They are a mixed race of Elves and Bretons who used to be incredibly powerful, but that was ages ago. Nowadys they are merely caretakers of the Adamatium Tower. They are technically their own nation here, but have been annexed by the Brettony and by affiliation, the Imperials and by the concordant the Thalmor... Like I said, it's complicated. They could tell you more up at the Citadel itself, but it's a hard hike and the road is not in the best shape.
+[Legate Warrington]: Not a whole lot. They are a mixed clan of Elves and Bretons who used to be incredibly powerful, but that was ages ago. Nowadays they are merely caretakers of the Adamatine Tower. They are technically their own nation here, but have been annexed by the Brettony and thus, the Empire and by the concordant with the Thalmor... Like I said, it's complicated. They could tell you more up at the Citadel itself, but it's a hard hike and the road is not in the best shape.
 
 [Player]: So are the Direnni part of the Dominion?
 
@@ -56,50 +56,50 @@ This is Gallowmarket, the primary port city of the Isle of Balfiera.
 
 (Citizen bursts in after the player starts to head out)
 
-[Citizen]: Dragon! A Dragon attacked Upvale! Help, you must help us
+[Citizen]: Dragon! A dragon attacked Upvale! Help, you must help us!
 
-[Legate Warrington]: Hold on now, what's this?
+[Legate Warrington]: Hold on now, what's this about?
 
-[Citizen]: A Dragon, came in from the north and started attacking the town without warning. Several of us fled and made it out of town to come here for help and to warn you!
+[Citizen]: A dragon, came in from the north and started attacking the town without warning. Several of us managed to make it out of town to come here for help and to warn you!
 
-[Legate Warrington]: Dragon? In these parts? I heard word that Skyrim had been dealing with the sudden appearance of Dragons. I half thought it to be a rumor. I'll round up a unit and dispatch them right away. You had better just lay low with the other survivors. We'll bring word after.
+[Legate Warrington]: Dragon? In these parts? I'd read reports mentioning dragon attacks in Skyrim; I half-thought them to be rumors. I'll muster the men and head out as soon as possible. It would be best for you to take shelter with the other survivors. We'll send word when it's safe to return.
 
 [Citizen]: Oh thank you, and please hurry.
 
-[Legate Warrington]: You there, you seem able bodied. I could use an additional hand, we're a bit short handed.
+[Legate Warrington]: Well, newcomer these people need help, and I, need an extra pair of hands. What do you say?
 
-[Player]: I'll do what I can, what do you need?
+[Player]: I'll do what I can. What do you need?
 
-[Legate Warrington]: I'm going to gather the garrison and deploy them, if you would take this dispatch to the captain of the town guard at the gate house and lead whatever guards he can spare up the west hill north of the town and meet my unit there, we can deal with this situation quickly hopefully.
+[Legate Warrington]: I'm going to muster my men and march for Upvale, if you would take this dispatch to the captain of the guard at the gatehouse and lead whatever guards he can spare up the west hill north of the town and meet my unit there, we'll be able to get this sorted quickly...hopefully.
 
-[Player]: I'll see to it
+[Player]: I'll take care of it.
 
-[Legate Warrington]: Thank you, we make it out of this and I'll compensate you of course.
+[Legate Warrington]: Thank you, we make it out of this and I'll personally see to it you're rewarded.
 
 
 (At the guard gatehouse)
-[Player]: I have this dispatch from Legate Warrington
+[Player]: I have this dispatch from Legate Warrington.
 
-[Captain Reynolds]: What's this? A dispatch? must be serious if he's calling me in... A Dragon? Are you serious?
+[Captain Reynolds]: What's this? A dispatch? Must be serious if he's calling me in... A dragon? Are you serious?
 
 [Player]: Deadly...
 
 [Captain Reynolds]: Alright, I'll send the next shift of guards along with you and I'll organize the current shift to find the survivors and prepare for any others you find. If you do, send them back to Gallowmarket and we'll tend to them.
 
-Ok boys and girls, look lively! We have a situation here and the Legate needs our help. There is a Dragon attacking Upvale, and the second watch is going to accompny this (gal/fellow) here and meet the Legate outside of Upvale to investigate. It's your job to find and get survivors away from the town and back here while the legion deals with the Dragon. Got it?
+Ok boys and girls, look alive! We have a situation here and the Legate needs our help. There is a dragon attacking Upvale, and the second watch is going to accompny this (gal/fellow) here and meet the Legate outside the town/villiage to investigate. It's your job to locate and escort any survivors away from the town and back here while the Legion deals with the dragon. Got it?
 
 Good luck out there, we'll be ready for when you get back with survivors. 
 
 
 (on the hill)
 
-[Legate Warrington]: Oh good you are here. I assume Reynolds briefed you on the plan? We'll deal with the dragon while you and the town guard look for and liberate any survivors.
+[Legate Warrington]: Good you're here. In case Reynolds didn't tell you, the plan is simple: We'll deal with the dragon while you and the town guard search for and rescue any survivors. Understood?
 
-[Player] Sounds good (Imperials attack, player looks for survivors)
+[Player] Sounds good. (Imperials attack, player looks for survivors)
 
 [Legate Warrington]: Great, let's move out!
 
-[Player] actually, Dragons are my specialty, let me deal with it, you help protect the citizens
+[Player] Actually, dragons are my speciality, let me deal with it, you help protect the civilians.
 
 [Legate Warrington]: Are you sure? All right then, we'll keep an eye out for survivors and get your back if you need it. Just try and bring it down quick!
 
